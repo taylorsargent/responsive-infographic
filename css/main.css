@@ -19,16 +19,13 @@ html {
   box-sizing: inherit;
 }
 
-.unit {
-  border: 1px solid black;
-}
-
 .title {
   padding: 1em;
 }
 
 h2 {
   color: #607332;
+  padding-top: 3em;
 }
 
 .growth-one svg {
