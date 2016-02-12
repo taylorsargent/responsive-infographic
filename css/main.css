@@ -11,7 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  background-color: #c2c492;
+  background-color: #E7E7D3;
   font-family: sans-serif;
 }
 
@@ -25,4 +25,58 @@ html {
 
 .title {
   padding: 1em;
+}
+
+h2 {
+  color: #607332;
+}
+
+.growth-one svg {
+  width: 2em;
+  margin: 0 auto;
+  display: block;
+}
+
+.growth-one p {
+  text-align: center;
+}
+
+.growth-two svg {
+  width: 2em;
+  margin: 0 auto;
+  display: block;
+}
+
+.growth-two p {
+  text-align: center;
+}
+
+.growth-three svg {
+  width: 3em;
+  margin: 0 auto;
+  display: block;
+}
+
+.growth-three p {
+  text-align: center;
+}
+
+.growth-four svg {
+  width: 3em;
+  margin: 0 auto;
+  display: block;
+}
+
+.growth-four p {
+  text-align: center;
+}
+
+.growth-five svg {
+  width: 3em;
+  margin: 0 auto;
+  display: block;
+}
+
+.growth-five p {
+  text-align: center;
 }
