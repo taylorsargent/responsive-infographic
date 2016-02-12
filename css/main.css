@@ -12,6 +12,7 @@ html {
   text-size-adjust: 100%;
 
   background-color: #c2c492;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -20,4 +21,8 @@ html {
 
 .unit {
   border: 1px solid black;
+}
+
+.title {
+  padding: 1em;
 }
