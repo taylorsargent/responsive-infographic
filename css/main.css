@@ -94,3 +94,7 @@ h2 {
 .green {
   color: #A8BF50;
 }
+
+.chart svg {
+  margin: 0 auto;
+}
