@@ -82,7 +82,7 @@ h2 {
 }
 
 .fruit svg {
-  width: 3em;
+  width: 4em;
   margin: 0 auto;
   display: block;
 }
@@ -91,7 +91,6 @@ h2 {
   text-align: center;
 }
 
-.fruit h3 {
-  text-align: center;
+.green {
   color: #A8BF50;
 }
