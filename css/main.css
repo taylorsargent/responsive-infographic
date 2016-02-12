@@ -80,3 +80,13 @@ h2 {
 .growth-five p {
   text-align: center;
 }
+
+.fruit svg {
+  width: 3em;
+  margin: 0 auto;
+  display: block;
+}
+
+.fruit p {
+  text-align: center;
+}
